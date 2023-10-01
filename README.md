@@ -2,13 +2,13 @@
 ### Developer 👨‍💻, Security Specialist, and founder of Null-Return IT Services & Consulting  
   
 
-- 🖥️ Currently work in IT Support Logistics  
+- 🖥️ Professional IT Support Engineer 
   
 
 - 📚 Published author on [Medium](https://medium.com/@erutherford_nullreturn)  
   
 
--  🧠 Avid learner and purveyor of knowledge  
+-  🧠 Avid learner and purveyor of knowledge (all the things!) 
   
 
 - 🔐 Cybersecurity aficionado  

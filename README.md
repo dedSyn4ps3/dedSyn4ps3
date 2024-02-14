@@ -71,7 +71,7 @@
 
 <br/>  
 
-<a href="https://app.daily.dev/dedSyn4ps3"><img src="https://api.daily.dev/devcards/d6541868cd6c4cf49f2547f907e24cc4.png?r=8la" width="250" height="350" alt="Ed Rutherford's Dev Card"/></a>
+<a href="https://app.daily.dev/dedsyn4ps3"><img src="https://api.daily.dev/devcards/v2/q9Ts65J0npnoraF7AJ8iK.png?type=default&r=bgy" width="356" alt="Ed Rutherford's Dev Card"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedsyn4ps3&hide_border=true&layout=compact" align="right" style="width:50%" height="350" width="250" />  
 <br/>  
 
